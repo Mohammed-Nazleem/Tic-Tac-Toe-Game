@@ -21,7 +21,7 @@ Welcome to TicTac-Toe! This is a simple React implementation of the classic game
 2. Navigate to the project directory.
 3. Install dependencies using `npm install`.
 4. Start the development server using `npm start`.
-5. Open your browser and visit `http://localhost:3000` to play the game.
+5. Open your browser and visit `http://localhost:5173` to play the game.
 6. Enter player names by clicking on the "Edit" button next to each player's symbol.
 7. Click on the grid to place your symbol and take turns with your opponent.
 8. The game automatically detects a win or draw and announces the winner.
